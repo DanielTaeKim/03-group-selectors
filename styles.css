@@ -1,15 +1,16 @@
 /* styles.css */
 
-.text-font {
+.click,
+.no-click {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-#click {
+.click {
     background-color: #000000;
     color: #FFFFFF;
 }
 
-#no-click {
+.no-click {
     background-color: #FFFF00;
 }
